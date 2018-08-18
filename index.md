@@ -17,6 +17,6 @@ Here are the downloads for my RR 6.1.0 builds.
 
 #### 18/8/2018
 
-Sailfish : <a href="https://drive.google.com/open?id=1CC5fJAME7GISs7xa_clBS0TwvZeeKYpH">Google Drive</a>
+Sailfish : <a href="https://drive.google.com/file/d/13e2wa3kEB7_3fsCaW4rs91OOzgXNLy7F/view?usp=sharing">Google Drive</a>
 
-Marlin : <a href="https://drive.google.com/open?id=1KZGEFHx9eDMApd4OcPGwmrdoyvIfyNwF">Google Drive</a>
+Marlin : <a href="">Building</a>
